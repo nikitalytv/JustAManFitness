@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  JustAManFitness
-//
-//  Created by Никита Литвиненко on 9. 11. 25.
-//
-
 import SwiftUI
 
 struct ContentView: View {
