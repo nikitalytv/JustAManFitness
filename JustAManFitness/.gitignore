@@ -1,0 +1,47 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# Swift Package Manager
+/.build/
+Packages/
+Package.pins
+Package.resolved
+.swiftpm/xcode/package.xcworkspace/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# Carthage
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Archive files
+*.xcarchive
+
+# User-specific Xcode files
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pbxuser
+
+# Other
+*.swp
+*.lock
+*.log
+*.idea/
+*.hmap
+
+# Firebase / Google
+GoogleService-Info.plist
+
